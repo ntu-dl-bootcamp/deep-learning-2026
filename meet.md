@@ -59,13 +59,13 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/siqi.jpg" alt="Si Qi">
     <p>Si Qi</p>
-    <p>Final year CCDS PhD Student. Instructor of fifth session (RL).</p>
+    <p>Final-year CCDS PhD Student. Instructor of fifth session (RL).</p>
   </div>
 
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrat.jpeg" alt="Subrat">
     <p>Subrat</p>
-    <p>Final year CCDS PhD Student. Instructor of fifth session (RL).</p>
+    <p>Final-year CCDS PhD Student. Instructor of fifth session (RL).</p>
   </div>
 
  <div class="team-member">
@@ -75,17 +75,10 @@ title: Meet The Team
   </div>
 
 
-  
-  <div class="team-member">
-    <img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.jpeg" alt="Eduardo">
-    <p>Eduardo</p>
-    <p>Second-year Ph.D. student from CCDS. Organizer of the bootcamp.</p>
-  </div>
-
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/kivanc.jpeg" alt="Kivanc">
     <p>Kivanc</p>
-    <p>Third-year Ph.D. student from MSE. Organizer of the boot camp.</p>
+    <p>Final-year Ph.D. student from MSE. Organizer of the boot camp.</p>
   </div>
 
   <div class="team-member">
