@@ -115,6 +115,18 @@ title: Meet The Team
     <p>Chau Giang</p>
     <p>Second-year Masters student from MAE. Organizer of the boot camp.</p>
   </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/siqi.jpg" alt="Si Qi">
+    <p>Chau Giang</p>
+    <p>Final year CCDS PhD Student working on Safe AI. Instructor of RL (Session 5).</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrat.jpeg" alt="Subrat">
+    <p>Chau Giang</p>
+    <p>Final year CCDS PhD Student working on Neurosymbolic RL. Instructor of RL (Session 5).</p>
+  </div>
     
 
   
